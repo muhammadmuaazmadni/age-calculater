@@ -1,0 +1,15 @@
+
+h1{
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: chartreuse;
+    font-style: italic;
+}
+.main{
+    border: 2px solid blue;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+    background-color: brown;
+}
